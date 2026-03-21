@@ -1,22 +1,21 @@
-{
-  "schema_version": "lxb.maps.stable.index.v1",
-  "updated_at": "2026-03-21T14:01:03.447814+00:00",
-  "maps": [
-    {
-      "package": "tv.danmaku.bili",
-      "map_id": "20260321_220101_75b3e553",
-      "generated_at": "2026-03-21T07:54:46.635538+00:00",
-      "submitted_at": "2026-03-21T14:01:01.981102+00:00",
-      "stable_at": "2026-03-21T14:01:01.981102+00:00",
-      "lane": "stable",
-      "status": "stable",
-      "map_path": "stable/maps/tv.danmaku.bili/20260321_220101_75b3e553/nav_map.json.gz",
-      "meta_path": "stable/maps/tv.danmaku.bili/20260321_220101_75b3e553/meta.json",
-      "sha256": "75b3e553168a5b86fb8fc8c09d5aaa1ba835ff024df3e781fd2cda32f59e04ad",
-      "bytes": 6799,
-      "source": "upload",
-      "description": "",
-      "source_candidate_map_id": ""
-    }
-  ]
+﻿{
+    "schema_version":  "lxb.maps.stable.index.v1",
+    "maps":  [
+                 {
+                     "package":  "tv.danmaku.bili",
+                     "map_id":  "20260321_220101_75b3e553",
+                     "generated_at":  "2026-03-21T07:54:46.635538+00:00",
+                     "submitted_at":  "2026-03-21T14:01:01.981102+00:00",
+                     "stable_at":  "2026-03-21T14:01:01.981102+00:00",
+                     "lane":  "stable",
+                     "status":  "stable",
+                     "map_path":  "stable/maps/tv.danmaku.bili/20260321_220101_75b3e553/nav_map.json.gz",
+                     "meta_path":  "stable/maps/tv.danmaku.bili/20260321_220101_75b3e553/meta.json",
+                     "sha256":  "75b3e553168a5b86fb8fc8c09d5aaa1ba835ff024df3e781fd2cda32f59e04ad",
+                     "bytes":  6799,
+                     "source":  "upload",
+                     "description":  "",
+                     "source_candidate_map_id":  ""
+                 }
+             ]
 }
