@@ -1,7 +1,23 @@
 {
   "schema_version": "lxb.maps.stable.index.v1",
-  "updated_at": "2026-03-21T14:01:03.447814+00:00",
+  "updated_at": "2026-03-21T14:03:05.142708+00:00",
   "maps": [
+    {
+      "package": "tv.danmaku.bili",
+      "map_id": "20260321_220303_bd8b98b2",
+      "generated_at": "2026-03-20T21:21:19.267154+00:00",
+      "submitted_at": "2026-03-21T14:03:02.999389+00:00",
+      "stable_at": "2026-03-21T14:03:02.999389+00:00",
+      "lane": "stable",
+      "status": "stable",
+      "map_path": "stable/maps/tv.danmaku.bili/20260321_220303_bd8b98b2/nav_map.json.gz",
+      "meta_path": "stable/maps/tv.danmaku.bili/20260321_220303_bd8b98b2/meta.json",
+      "sha256": "bd8b98b289322f12d0f26b4e924678823ccb2205aadd673e9dce90a9bc6fc3c6",
+      "bytes": 9833,
+      "source": "upload",
+      "description": "",
+      "source_candidate_map_id": ""
+    },
     {
       "package": "tv.danmaku.bili",
       "map_id": "20260321_220101_75b3e553",
