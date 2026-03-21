@@ -1,7 +1,22 @@
-{
+﻿{
   "schema_version": "lxb.maps.candidates.index.v1",
-  "updated_at": "2026-03-21T14:09:34.596864+00:00",
   "candidates": [
+    {
+      "package": "com.MobileTicket",
+      "map_id": "20260321_221029_31930ed7",
+      "generated_at": "2026-03-20T19:49:22.752844+00:00",
+      "submitted_at": "2026-03-21T14:10:29.429624+00:00",
+      "stable_at": "",
+      "lane": "candidates",
+      "status": "pending",
+      "map_path": "candidates/maps/com.MobileTicket/20260321_221029_31930ed7/nav_map.json.gz",
+      "meta_path": "candidates/maps/com.MobileTicket/20260321_221029_31930ed7/meta.json",
+      "sha256": "31930ed736db08183d1aafdc5f319344dfe88b9eaeddb08811a71f66e4d38301",
+      "bytes": 8410,
+      "source": "saved",
+      "description": "",
+      "source_candidate_map_id": ""
+    },
     {
       "package": "cn.xuexi.android",
       "map_id": "20260321_220932_e68df822",
