@@ -1,0 +1,38 @@
+{
+  "schema_version": "lxb.map.candidate.meta.v1",
+  "package": "cn.xuexi.android",
+  "map_id": "20260321_220932_e68df822",
+  "generated_at": "2026-03-20T21:21:19.267154+00:00",
+  "submitted_at": "2026-03-21T14:09:32.991166+00:00",
+  "stable_at": "",
+  "lane": "candidates",
+  "source": "upload",
+  "description": "",
+  "source_candidate_map_id": "",
+  "builder": {
+    "name": "LXB-MapBuilder",
+    "track": "node_v5",
+    "source_file": "nav_map.json.gz",
+    "source_meta_file": "meta.json"
+  },
+  "config": {
+    "max_pages": 100,
+    "max_depth": 4,
+    "max_time_seconds": 1800,
+    "action_delay_ms": 800,
+    "explore_mode": "parallel",
+    "click_delay": 3.0
+  },
+  "stats": {
+    "total_pages": 89,
+    "total_transitions": 94,
+    "total_actions": 186,
+    "exploration_time_seconds": 1820.9866619110107
+  },
+  "artifacts": {
+    "map_path": "candidates/maps/cn.xuexi.android/20260321_220932_e68df822/nav_map.json.gz",
+    "sha256": "e68df822c395baaf1085fb8101aa070b78ea2d0ac21052d222c9f913bdbc8330",
+    "bytes_gzip": 9833,
+    "bytes_json": 67848
+  }
+}
