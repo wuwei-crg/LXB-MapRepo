@@ -1,5 +1,22 @@
-﻿{
+{
   "schema_version": "lxb.maps.candidates.index.v1",
-  "updated_at": "",
-  "candidates": []
+  "updated_at": "2026-03-21T14:09:34.596864+00:00",
+  "candidates": [
+    {
+      "package": "cn.xuexi.android",
+      "map_id": "20260321_220932_e68df822",
+      "generated_at": "2026-03-20T21:21:19.267154+00:00",
+      "submitted_at": "2026-03-21T14:09:32.991166+00:00",
+      "stable_at": "",
+      "lane": "candidates",
+      "status": "pending",
+      "map_path": "candidates/maps/cn.xuexi.android/20260321_220932_e68df822/nav_map.json.gz",
+      "meta_path": "candidates/maps/cn.xuexi.android/20260321_220932_e68df822/meta.json",
+      "sha256": "e68df822c395baaf1085fb8101aa070b78ea2d0ac21052d222c9f913bdbc8330",
+      "bytes": 9833,
+      "source": "upload",
+      "description": "",
+      "source_candidate_map_id": ""
+    }
+  ]
 }
