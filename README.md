@@ -1,6 +1,10 @@
-﻿# LXB-MapRepo
+# LXB-MapRepo
 
 Canonical map repository for LXB ecosystem.
+
+## Related Repositories
+- Runtime framework (Android app + on-device FSM): https://github.com/wuwei-crg/LXB-Framework
+- Map builder and publish tools: https://github.com/wuwei-crg/LXB-MapBuilder
 
 ## Policy
 - Do not edit `manifests/**` manually.
