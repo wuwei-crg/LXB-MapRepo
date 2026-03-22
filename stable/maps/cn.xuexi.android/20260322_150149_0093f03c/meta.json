@@ -1,0 +1,38 @@
+{
+  "schema_version": "lxb.map.stable.meta.v1",
+  "package": "cn.xuexi.android",
+  "map_id": "20260322_150149_0093f03c",
+  "generated_at": "2026-03-20T21:21:19.267154+00:00",
+  "submitted_at": "2026-03-22T07:01:49.402018+00:00",
+  "stable_at": "2026-03-22T07:01:49.402018+00:00",
+  "lane": "stable",
+  "source": "saved",
+  "description": "",
+  "source_candidate_map_id": "",
+  "builder": {
+    "name": "LXB-MapBuilder",
+    "track": "node_v5",
+    "source_file": "E:\\Project\\LXB-MapBuilder\\map_repo\\maps\\cn.xuexi.android\\20260321_052119_6a4b7a79\\nav_map.json.gz",
+    "source_meta_file": "E:\\Project\\LXB-MapBuilder\\map_repo\\maps\\cn.xuexi.android\\20260321_052119_6a4b7a79\\meta.json"
+  },
+  "config": {
+    "max_pages": 100,
+    "max_depth": 4,
+    "max_time_seconds": 1800,
+    "action_delay_ms": 800,
+    "explore_mode": "parallel",
+    "click_delay": 3.0
+  },
+  "stats": {
+    "total_pages": 89,
+    "total_transitions": 94,
+    "total_actions": 186,
+    "exploration_time_seconds": 1820.9866619110107
+  },
+  "artifacts": {
+    "map_path": "stable/maps/cn.xuexi.android/20260322_150149_0093f03c/nav_map.json.gz",
+    "sha256": "0093f03c1935243f3e345d65fefabb6b04913a32fa38f434f527d258bfd3f1e0",
+    "bytes_gzip": 9833,
+    "bytes_json": 67848
+  }
+}
