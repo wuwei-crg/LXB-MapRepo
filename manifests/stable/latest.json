@@ -1,8 +1,8 @@
 {
   "schema_version": "lxb.map.manifest.v1",
   "lane": "stable",
-  "generated_at": "2026-03-22T06:57:29Z",
-  "count": 1,
+  "generated_at": "2026-03-22T07:02:24Z",
+  "count": 2,
   "items": [
     {
       "lane": "stable",
@@ -14,6 +14,17 @@
       "map_path": "stable/maps/tv.danmaku.bili/20260322_145637_ac590677/nav_map.json.gz",
       "meta_path": "stable/maps/tv.danmaku.bili/20260322_145637_ac590677/meta.json",
       "sha256": "ac5906774124d1ec620f6f4e25ff385f1880bb9e4fdb0e6e050ee84d726377d3"
+    },
+    {
+      "lane": "stable",
+      "package": "com.MobileTicket",
+      "map_id": "20260322_150131_ece4c61c",
+      "submitted_at": "2026-03-22T07:01:31.403976+00:00",
+      "stable_at": "2026-03-22T07:01:31.403976+00:00",
+      "description": "",
+      "map_path": "stable/maps/com.MobileTicket/20260322_150131_ece4c61c/nav_map.json.gz",
+      "meta_path": "stable/maps/com.MobileTicket/20260322_150131_ece4c61c/meta.json",
+      "sha256": "ece4c61cc75d2e6848ae2235e5519c92e8dadbab9a88ca1c18f97d1a84f5c5ba"
     }
   ]
 }
