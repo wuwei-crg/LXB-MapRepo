@@ -1,8 +1,8 @@
 {
   "schema_version": "lxb.map.manifest.v1",
   "lane": "stable",
-  "generated_at": "2026-03-22T07:02:24Z",
-  "count": 2,
+  "generated_at": "2026-03-22T07:04:35Z",
+  "count": 3,
   "items": [
     {
       "lane": "stable",
@@ -14,6 +14,17 @@
       "map_path": "stable/maps/tv.danmaku.bili/20260322_145637_ac590677/nav_map.json.gz",
       "meta_path": "stable/maps/tv.danmaku.bili/20260322_145637_ac590677/meta.json",
       "sha256": "ac5906774124d1ec620f6f4e25ff385f1880bb9e4fdb0e6e050ee84d726377d3"
+    },
+    {
+      "lane": "stable",
+      "package": "com.max.xiaoheihe",
+      "map_id": "20260322_150117_44bf4068",
+      "submitted_at": "2026-03-22T07:01:17.349658+00:00",
+      "stable_at": "2026-03-22T07:01:17.349658+00:00",
+      "description": "",
+      "map_path": "stable/maps/com.max.xiaoheihe/20260322_150117_44bf4068/nav_map.json.gz",
+      "meta_path": "stable/maps/com.max.xiaoheihe/20260322_150117_44bf4068/meta.json",
+      "sha256": "44bf4068b18ccf1c1b172f667b792c0801b93d021f6414321e138b4bb2a52b56"
     },
     {
       "lane": "stable",
