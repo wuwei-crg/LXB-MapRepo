@@ -1,8 +1,8 @@
 {
   "schema_version": "lxb.map.manifest.v1",
   "lane": "stable",
-  "generated_at": "2026-03-22T07:06:00Z",
-  "count": 4,
+  "generated_at": "2026-03-22T07:06:32Z",
+  "count": 5,
   "items": [
     {
       "lane": "stable",
@@ -47,6 +47,17 @@
       "map_path": "stable/maps/com.MobileTicket/20260322_150131_ece4c61c/nav_map.json.gz",
       "meta_path": "stable/maps/com.MobileTicket/20260322_150131_ece4c61c/meta.json",
       "sha256": "ece4c61cc75d2e6848ae2235e5519c92e8dadbab9a88ca1c18f97d1a84f5c5ba"
+    },
+    {
+      "lane": "stable",
+      "package": "cn.xuexi.android",
+      "map_id": "20260322_150149_0093f03c",
+      "submitted_at": "2026-03-22T07:01:49.402018+00:00",
+      "stable_at": "2026-03-22T07:01:49.402018+00:00",
+      "description": "",
+      "map_path": "stable/maps/cn.xuexi.android/20260322_150149_0093f03c/nav_map.json.gz",
+      "meta_path": "stable/maps/cn.xuexi.android/20260322_150149_0093f03c/meta.json",
+      "sha256": "0093f03c1935243f3e345d65fefabb6b04913a32fa38f434f527d258bfd3f1e0"
     }
   ]
 }
