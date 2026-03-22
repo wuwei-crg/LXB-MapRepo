@@ -1,0 +1,38 @@
+{
+  "schema_version": "lxb.map.stable.meta.v1",
+  "package": "com.MobileTicket",
+  "map_id": "20260322_150131_ece4c61c",
+  "generated_at": "2026-03-20T19:49:22.752844+00:00",
+  "submitted_at": "2026-03-22T07:01:31.403976+00:00",
+  "stable_at": "2026-03-22T07:01:31.403976+00:00",
+  "lane": "stable",
+  "source": "saved",
+  "description": "",
+  "source_candidate_map_id": "",
+  "builder": {
+    "name": "LXB-MapBuilder",
+    "track": "node_v5",
+    "source_file": "E:\\Project\\LXB-MapBuilder\\map_repo\\maps\\com.MobileTicket\\20260321_034922_6f3a0f00\\nav_map.json.gz",
+    "source_meta_file": "E:\\Project\\LXB-MapBuilder\\map_repo\\maps\\com.MobileTicket\\20260321_034922_6f3a0f00\\meta.json"
+  },
+  "config": {
+    "max_pages": 100,
+    "max_depth": 4,
+    "max_time_seconds": 1800,
+    "action_delay_ms": 800,
+    "explore_mode": "parallel",
+    "click_delay": 3.0
+  },
+  "stats": {
+    "total_pages": 70,
+    "total_transitions": 76,
+    "total_actions": 183,
+    "exploration_time_seconds": 1800.7838175296783
+  },
+  "artifacts": {
+    "map_path": "stable/maps/com.MobileTicket/20260322_150131_ece4c61c/nav_map.json.gz",
+    "sha256": "ece4c61cc75d2e6848ae2235e5519c92e8dadbab9a88ca1c18f97d1a84f5c5ba",
+    "bytes_gzip": 8410,
+    "bytes_json": 55359
+  }
+}
