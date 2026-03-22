@@ -1,0 +1,38 @@
+{
+  "schema_version": "lxb.map.stable.meta.v1",
+  "package": "com.xingin.xhs",
+  "map_id": "20260322_142718_d666655a",
+  "generated_at": "2026-03-20T20:50:58.213487+00:00",
+  "submitted_at": "2026-03-22T06:27:18.265381+00:00",
+  "stable_at": "2026-03-22T06:27:18.265381+00:00",
+  "lane": "stable",
+  "source": "saved",
+  "description": "",
+  "source_candidate_map_id": "",
+  "builder": {
+    "name": "LXB-MapBuilder",
+    "track": "node_v5",
+    "source_file": "E:\\Project\\LXB-MapBuilder\\map_repo\\maps\\com.xingin.xhs\\20260321_045058_1a36834c\\nav_map.json.gz",
+    "source_meta_file": "E:\\Project\\LXB-MapBuilder\\map_repo\\maps\\com.xingin.xhs\\20260321_045058_1a36834c\\meta.json"
+  },
+  "config": {
+    "max_pages": 100,
+    "max_depth": 4,
+    "max_time_seconds": 1800,
+    "action_delay_ms": 800,
+    "explore_mode": "parallel",
+    "click_delay": 3.0
+  },
+  "stats": {
+    "total_pages": 65,
+    "total_transitions": 68,
+    "total_actions": 178,
+    "exploration_time_seconds": 1823.6020970344543
+  },
+  "artifacts": {
+    "map_path": "stable/maps/com.xingin.xhs/20260322_142718_d666655a/nav_map.json.gz",
+    "sha256": "d666655a3cb8b15dd8ee230ddec7b5c38d9c29d6af3711ff22ff1699e3828630",
+    "bytes_gzip": 6695,
+    "bytes_json": 47996
+  }
+}
