@@ -1,8 +1,8 @@
 {
   "schema_version": "lxb.map.manifest.v1",
   "lane": "stable",
-  "generated_at": "2026-03-27T06:33:43Z",
-  "count": 6,
+  "generated_at": "2026-03-27T10:03:45Z",
+  "count": 7,
   "items": [
     {
       "lane": "stable",
@@ -25,6 +25,17 @@
       "map_path": "stable/maps/tv.danmaku.bili/20260322_145637_ac590677/nav_map.json.gz",
       "meta_path": "stable/maps/tv.danmaku.bili/20260322_145637_ac590677/meta.json",
       "sha256": "ac5906774124d1ec620f6f4e25ff385f1880bb9e4fdb0e6e050ee84d726377d3"
+    },
+    {
+      "lane": "stable",
+      "package": "com.zhihu.android",
+      "map_id": "20260327_180311_34a04c98",
+      "submitted_at": "2026-03-27T10:03:11.627011+00:00",
+      "stable_at": "2026-03-27T10:03:11.627011+00:00",
+      "description": "",
+      "map_path": "stable/maps/com.zhihu.android/20260327_180311_34a04c98/nav_map.json.gz",
+      "meta_path": "stable/maps/com.zhihu.android/20260327_180311_34a04c98/meta.json",
+      "sha256": "34a04c982517e55d1b4ce93a79d818a96e10b7b8ead8ffb94bc823f472dadbaf"
     },
     {
       "lane": "stable",
