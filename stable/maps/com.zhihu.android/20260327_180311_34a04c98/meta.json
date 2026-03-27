@@ -1,0 +1,38 @@
+{
+  "schema_version": "lxb.map.stable.meta.v1",
+  "package": "com.zhihu.android",
+  "map_id": "20260327_180311_34a04c98",
+  "generated_at": "2026-03-27T09:55:25.390275+00:00",
+  "submitted_at": "2026-03-27T10:03:11.627011+00:00",
+  "stable_at": "2026-03-27T10:03:11.627011+00:00",
+  "lane": "stable",
+  "source": "saved",
+  "description": "",
+  "source_candidate_map_id": "",
+  "builder": {
+    "name": "LXB-MapBuilder",
+    "track": "node_v5",
+    "source_file": "E:\\Project\\LXB-MapBuilder\\map_repo\\maps\\com.zhihu.android\\20260327_175525_2ccd9bd4\\nav_map.json.gz",
+    "source_meta_file": "E:\\Project\\LXB-MapBuilder\\map_repo\\maps\\com.zhihu.android\\20260327_175525_2ccd9bd4\\meta.json"
+  },
+  "config": {
+    "max_pages": 100,
+    "max_depth": 3,
+    "max_time_seconds": 1800,
+    "action_delay_ms": 800,
+    "explore_mode": "parallel",
+    "click_delay": 3.0
+  },
+  "stats": {
+    "total_pages": 65,
+    "total_transitions": 66,
+    "total_actions": 329,
+    "exploration_time_seconds": 1836.8358163833618
+  },
+  "artifacts": {
+    "map_path": "stable/maps/com.zhihu.android/20260327_180311_34a04c98/nav_map.json.gz",
+    "sha256": "34a04c982517e55d1b4ce93a79d818a96e10b7b8ead8ffb94bc823f472dadbaf",
+    "bytes_gzip": 8513,
+    "bytes_json": 52763
+  }
+}
